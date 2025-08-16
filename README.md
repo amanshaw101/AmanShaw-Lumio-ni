@@ -1,30 +1,24 @@
-# New chat
+# Lumio – Aman Shaw
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+An AI-powered web application built with **TypeScript** and **CSS**, deployed on **Vercel**.  
+The project demonstrates clean architecture, a modern TypeScript codebase, and a minimal design-first approach.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aman-shaws-projects/v0-new-chat)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/BUCJhKoPIml)
+## 🚀 Live Demo
+👉 [Lumio on Vercel](https://aman-shaw-lumio.vercel.app/)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 📌 Features
+- Built with **TypeScript** for type safety and scalability
+- Styled with **vanilla CSS** for a lightweight, clean UI
+- Modern **React/Next.js**-style component structure
+- Responsive layout for desktop and mobile
+- Deployed with **Vercel** for fast and reliable hosting
 
-## Deployment
+---
 
-Your project is live at:
-
-**[https://vercel.com/aman-shaws-projects/v0-new-chat](https://vercel.com/aman-shaws-projects/v0-new-chat)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/BUCJhKoPIml](https://v0.app/chat/projects/BUCJhKoPIml)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🛠️ Tech Stack
+- **Language:** TypeScript (63.9%), JavaScript (1.4%)  
+- **Styling:** CSS (34.7%)  
+- **Framework:** Next.js (React-based)  
+- **Deployment:** Vercel  
